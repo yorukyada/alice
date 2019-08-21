@@ -4,7 +4,7 @@ from alice.helper.common_utils import CommonUtils
 from alice.helper.log_utils import LOG
 
 //I am trying again...
-//adding new line
+//adding
 class Base(object):
     pass
 
